@@ -2,4 +2,5 @@
 
 Meu nome é Henrique
 - Estou estudando alura
+- Estou me desenvolvendo na linguagem javascript
 
